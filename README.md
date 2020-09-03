@@ -1,16 +1,15 @@
-### Hi there 👋
+## Mohamed Tamer - @mohamedtamer0
+### Hey devs 👋
 
-<!--
-**mohamedtamer0/mohamedtamer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building great software and helping others do the same.
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]: https://codedev.ga/
+[twitter]: https://twitter.com/MohamedTamer42
+[youtube]: https://www.youtube.com/user/tamer3044/
+[instagram]: https://www.instagram.com/mohamedtamer0/
+[linkedin]: https://www.linkedin.com/in/mohamed-tamer-395abb197/
