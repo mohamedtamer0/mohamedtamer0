@@ -14,3 +14,17 @@ I enjoy building great software and helping others do the same.
 [youtube]: https://www.youtube.com/user/tamer3044/
 [instagram]: https://www.instagram.com/mohamedtamer0/
 [linkedin]: https://www.linkedin.com/in/mohamed-tamer-395abb197/
+
+
+
+
+```kotlin
+object Mohamed {
+ val name = "Mohamed Tamer"
+ val acknowledgements = "Developer"
+ 
+ val primarySkillset = "Android & Front-end Web"
+ val languages = listOf("Kotlin", "Java", "Python", "Java", "JavaScript", "VueJS", "React")
+
+}
+```
