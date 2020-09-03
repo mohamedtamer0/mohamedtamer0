@@ -24,7 +24,7 @@ object Mohamed {
  val acknowledgements = "Developer"
  
  val primarySkillset = "Android & Front-end Web"
- val languages = listOf("Kotlin", "Java", "Python", "Java", "JavaScript", "VueJS", "React")
+ val languages = listOf("Kotlin", "Java", "Python", "JavaScript", "VueJS", "React")
 
 }
 ```
