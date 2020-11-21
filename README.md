@@ -18,6 +18,10 @@ I enjoy building great software and helping others do the same.
 
 
 
+<img src="https://media.giphy.com/media/l0NgQIwNvU9AUuaY0/source.gif" align="right" height=300 width=300>
+
+
+
 ```kotlin
 object Mohamed {
  val name = "Mohamed Tamer"
