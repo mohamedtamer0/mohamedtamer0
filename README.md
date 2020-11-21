@@ -15,10 +15,16 @@ I enjoy building great software and helping others do the same.
 [instagram]: https://www.instagram.com/mohamedtamer0/
 [linkedin]: https://www.linkedin.com/in/mohamed-tamer-395abb197/
 
+**Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 
 <img src="https://media.giphy.com/media/l0NgQIwNvU9AUuaY0/source.gif" align="right" height=300 width=300>
+
+
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
@@ -32,4 +38,12 @@ object Mohamed {
 
 }
 ```
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtamer0&theme=light&hide_langs_below=1" />
+</a>
+
+
+
+
 ![Mohamed Tamer github stats](https://github-readme-stats.vercel.app/api?username=mohamedtamer0&theme=dracula&show_icons=true&count_private=true)
