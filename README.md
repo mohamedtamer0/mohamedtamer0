@@ -10,10 +10,10 @@ I enjoy building great software and helping others do the same.
 👔 [linkedin][linkedin]
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtamer0&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtamer0&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedtamer0&show_icons=true&theme=dark&line_height=27" alt="Guru's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedtamer0&show_icons=true&theme=dark&line_height=27" alt="Mohamed Tamer github stats"/>
 </a>
 
 [website]: https://codedev.ga/
