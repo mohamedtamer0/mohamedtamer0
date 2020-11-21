@@ -32,3 +32,4 @@ object Mohamed {
 
 }
 ```
+![Mohamed Tamer github stats](https://github-readme-stats.vercel.app/api?username=mohamedtamer0&theme=dracula&show_icons=true&count_private=true)
