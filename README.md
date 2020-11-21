@@ -20,7 +20,7 @@ I enjoy building great software and helping others do the same.
 
 <img src="https://media.giphy.com/media/l0NgQIwNvU9AUuaY0/source.gif" align="right" height=300 width=300>
 
-
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 ```kotlin
 object Mohamed {
