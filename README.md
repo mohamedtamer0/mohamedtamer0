@@ -33,6 +33,8 @@ object Mohamed {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedtamer0&show_icons=true&theme=dracula&line_height=27" alt="Mohamed Tamer github stats"/>
 </a>
 
+<img src="https://media.giphy.com/media/l0NgQIwNvU9AUuaY0/source.gif" align="right" height=250 width=300>
+
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/MohamedTamer42
