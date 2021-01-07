@@ -5,7 +5,7 @@ I enjoy building great software and helping others do the same.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
-<img src="https://media.giphy.com/media/l0NgQIwNvU9AUuaY0/source.gif" align="right" height=250 width=300>
+<img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
 object Mohamed {
@@ -32,6 +32,7 @@ object Mohamed {
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedtamer0&show_icons=true&theme=dracula&line_height=27" alt="Mohamed Tamer github stats"/>
 </a>
+
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/MohamedTamer42
