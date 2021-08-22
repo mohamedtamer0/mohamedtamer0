@@ -1,7 +1,21 @@
 ## Mohamed Tamer - @mohamedtamer0
 ### Hey devs 👋
+👨🏼‍💻I'm Dev
 
+Android Developer Kotlin & Java
+
+Brief about me, I'm an Android dev in both languages [Java and Kotlin] , I have 2 years experience of working on a variety of projects .
+
+I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
+
+I have knowledge of OOP, MVVM and MVC principles, My work includes building user-focused, innovative, keep user security and performance UI, and developing clean code with teamwork.
+
+I have experience in Rest API, Retrofit, Room Database, RX java , databinding, online payment, E-commerce App, Firebase, Google Play Services, Google Admob, Butterknife-Library, Service, Broadcast Receiver , Short experience in dagger and kotlin coroutines, and power to use GitHub to work with a team.
+
+=
 I enjoy building great software and helping others do the same.
+
+Experienced Android Developer with a demonstrated history of working in the information technology and services industry. Skilled in Android, Leadership, Project Management, Kotlin, and java.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
