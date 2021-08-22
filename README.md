@@ -12,7 +12,7 @@ I have knowledge of OOP, MVVM and MVC principles, My work includes building user
 
 I have experience in Rest API, Retrofit, Room Database, RX java , databinding, online payment, E-commerce App, Firebase, Google Play Services, Google Admob, Butterknife-Library, Service, Broadcast Receiver , Short experience in dagger and kotlin coroutines, and power to use GitHub to work with a team.
 
-=
+
 I enjoy building great software and helping others do the same.
 
 Experienced Android Developer with a demonstrated history of working in the information technology and services industry. Skilled in Android, Leadership, Project Management, Kotlin, and java.
