@@ -4,6 +4,8 @@
 
 Android Developer Kotlin & Java
 
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
+
 Brief about me, I'm an Android dev in both languages [Java and Kotlin] , I have 2 years experience of working on a variety of projects .
 
 I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
@@ -17,7 +19,6 @@ I enjoy building great software and helping others do the same.
 
 Experienced Android Developer with a demonstrated history of working in the information technology and services industry. Skilled in Android, Leadership, Project Management, Kotlin, and java.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="340px" />
