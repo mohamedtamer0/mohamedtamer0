@@ -42,13 +42,12 @@ object Mohamed {
 <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtamer0&layout=compact&hide_border=true&theme=onedark">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedtamer0&hide_border=true&theme=onedark">
  <a href="https://github.com/mohamedtamer0">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedtamer0&show_icons=true&theme=dracula&line_height=27" alt="Mohamed Tamer github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedtamer0&show_icons=true&theme=onedark&line_height=27" alt="Mohamed Tamer github stats"/>
 </a>
 </div>
 
-<div align="center">
-## Languages and Tools:
- </div>
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools
 <div align="center">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
