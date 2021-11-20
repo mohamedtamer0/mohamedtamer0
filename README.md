@@ -28,30 +28,13 @@ object Mohamed {
 }
 ```
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Contacts Me
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> My Courses
 <div align="center">
- <a href="https://twitter.com/MohamedTamer42"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
- <a href="https://www.linkedin.com/in/mohamedtamer0"><img alt="Twitter" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="https://www.instagram.com/mohamedtamer0"><img alt="Twitter" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="https://www.youtube.com/user/tamer3044/"><img alt="Twitter" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://mohamedtamer0.github.io/PortfolioWeb/"><img alt="Twitter" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+ <a href="https://www.udemy.com/course/kotlin-course-arabic/?couponCode=NOVEMBER2021"><img src="https://img.shields.io/badge/Udemy-A100FF?style=for-the-badge&logo=Udemy&logoColor=white"></a>
  </div>
  
-
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats
-
-
-<div align="center">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtamer0&layout=compact&hide_border=true&theme=onedark">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedtamer0&hide_border=true&theme=onedark">
- <a href="https://github.com/mohamedtamer0">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedtamer0&show_icons=true&theme=onedark&line_height=27" alt="Mohamed Tamer github stats"/>
-</a>
-</div>
-
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools
+ 
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools
 <div align="center">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -68,6 +51,32 @@ object Mohamed {
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
 </div>
+
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Contacts Me
+<div align="center">
+ <a href="https://twitter.com/MohamedTamer42"><img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/mohamedtamer0"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://www.instagram.com/mohamedtamer0"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.youtube.com/user/tamer3044/"><img  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://mohamedtamer0.github.io/PortfolioWeb/"><img  src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+ </div>
+ 
+
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats
+
+
+<div align="center">
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtamer0&layout=compact&hide_border=true&theme=onedark">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedtamer0&hide_border=true&theme=onedark">
+ <a href="https://github.com/mohamedtamer0">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedtamer0&show_icons=true&theme=onedark&line_height=27" alt="Mohamed Tamer github stats"/>
+</a>
+</div>
+
+
+
 
 
 
