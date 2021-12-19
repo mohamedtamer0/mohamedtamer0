@@ -8,7 +8,7 @@ Brief about me, I'm an Android dev in both languages [Java and Kotlin] , I have 
 
 I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
 
-I have knowledge of OOP, MVVM and MVC principles, My work includes building user-focused, innovative, keep user security and performance UI, and developing clean code with teamwork.
+I have knowledge of OOP,MVVM and MVC principles, My work includes building user-focused, innovative, keep user security and performance UI, and developing clean code with teamwork.
 
 I have experience in Rest API, Retrofit, Room Database, RX java , databinding, online payment, E-commerce App, Firebase, Google Play Services, Google Admob, Butterknife-Library, Service, Broadcast Receiver , Short experience in dagger and kotlin coroutines, and power to use GitHub to work with a team.
 
@@ -78,12 +78,8 @@ object Mohamed {
 </div>
 
 
-
-
-
-
-
 <!-- <div align="center">
+
 <img src="https://media.giphy.com/media/l0NgQIwNvU9AUuaY0/source.gif" align="right" height=250 width=300>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 </div>
