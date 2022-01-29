@@ -2,6 +2,7 @@
 
 ![1544118575312](https://user-images.githubusercontent.com/51374446/149413490-fb3a6507-eb23-4e08-a756-842c47727978.jpg)
 
+---
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 ### Hey devs 👋
@@ -31,12 +32,15 @@ object Mohamed {
 }
 ```
 
+---
+
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> My Courses
 <div align="center">
  <a href="https://www.udemy.com/course/kotlin-course-arabic/?couponCode=NOVEMBER2021"><img src="https://img.shields.io/badge/Udemy-A100FF?style=for-the-badge&logo=Udemy&logoColor=white"></a>
   <a href="https://www.youtube.com/user/tamer3044/"><img  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
  </div>
  
+ ---
  
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools
 <div align="center">
@@ -56,6 +60,7 @@ object Mohamed {
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
 </div>
 
+---
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Contacts Me
 <div align="center">
@@ -67,6 +72,15 @@ object Mohamed {
   <a href="https://mohamedtamer0.github.io/PortfolioWeb/"><img  src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
  </div>
  
+ ---
+ 
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Projects : Open Source projects
+ 
+|       **Repo**            |   **Language** |   **Description**                                                                            |
+| ------------------------- | ---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   [Compose-Curved-Scroll-library](https://github.com/mohamedtamer0/Compose-Curved-Scroll-library)  |  **Kotlin** | Compose Curved Scroll is a lightweight, simple yet customizable implementation in **Jetpack Compose**.
+
+ ---
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats
@@ -96,5 +110,6 @@ object Mohamed {
 </a>
 </div> -->
 
+### It was nice meeting you :revolving_hearts: what about a follow and let's connect! :raised_hands: 
 
 
