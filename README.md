@@ -74,14 +74,14 @@ object Mohamed {
  
  ---
  
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Projects : Open Source projects
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Projects : Open Source librarys
  
 |       **Repo**            |   **Language** |   **Description**                                                                            |
 | ------------------------- | ---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   [Compose-Curved-Scroll-library](https://github.com/mohamedtamer0/Compose-Curved-Scroll-library)  |  **Kotlin** | Compose Curved Scroll is a lightweight, simple yet customizable implementation in **Jetpack Compose**.
 
  ---
-
+ 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats
 
@@ -110,6 +110,7 @@ object Mohamed {
 </a>
 </div> -->
 
+---
 ### It was nice meeting you :revolving_hearts: what about a follow and let's connect! :raised_hands: 
 
 
