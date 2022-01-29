@@ -74,7 +74,7 @@ object Mohamed {
  
  ---
  
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Projects : Open Source librarys
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Projects : Open Source libraries
  
 |       **Repo**            |   **Language** |   **Description**                                                                            |
 | ------------------------- | ---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
