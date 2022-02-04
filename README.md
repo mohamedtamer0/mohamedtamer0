@@ -82,6 +82,49 @@ object Mohamed {
 
  ---
  
+  ---
+ 
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Repos : Programming basics, experience, and skills
+ 
+|       **Repo**            |   **Language** |
+| ------------------------- | ---------------|
+|   [DataStructuresAlgorithms-CPlusPlus](https://github.com/mohamedtamer0/DataStructuresAlgorithms-CPlusPlus)  | **C++** |
+|   [LeetCode](https://github.com/mohamedtamer0/LeetCode)  |  **Kotlin** **&** **Java** **&** **C++** |
+|   [SolidPrinciples-Kotlin-java](https://github.com/mohamedtamer0/SolidPrinciples-Kotlin-java)  |  **Kotlin** **&** **Java** |
+|   [DesignPatterns-Kotlin](https://github.com/mohamedtamer0/DesignPatterns-Kotlin)  |  **Kotlin** |
+|   [DesignPatterns-Java](https://github.com/mohamedtamer0/DesignPatterns-Java)  |  **Java** |
+|   [ktor-sample](https://github.com/mohamedtamer0/ktor-sample)  |  **Kotlin** |
+
+ ---
+ 
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Projects : Android Apps
+ 
+|       **Repo**            |   **Language** |
+| ------------------------- | ---------------|
+|   [DogsApp-RecyclerView-Kotlin](https://github.com/mohamedtamer0/DogsApp-RecyclerView-Kotlin)  |  **Kotlin** |
+|   [GoogleMap-Integration-jetpackCompose](https://github.com/mohamedtamer0/GoogleMap-Integration-jetpackCompose)  |  **Kotlin** |
+|   [MaterialComponent-jetPackCompose](https://github.com/mohamedtamer0/MaterialComponent-jetPackCompose)  |  **Kotlin** |
+|   [ExoPlayerVideo-jetPackCompose](https://github.com/mohamedtamer0/ExoPlayerVideo-jetPackCompose)  |  **Kotlin** |
+|   [CircularProgressBar-JetpackCompose-MVVMPattern](https://github.com/mohamedtamer0/CircularProgressBar-JetpackCompose-MVVMPattern)  |  **Kotlin** |
+|   [SplashScreenAnimation-Jetpack-Compose](https://github.com/mohamedtamer0/SplashScreenAnimation-Jetpack-Compose)  |  **Kotlin** |
+|   [BottomNavigation-JetpackCompose](https://github.com/mohamedtamer0/BottomNavigation-JetpackCompose)  |  **Kotlin** |
+|   [JetpackCompose-Grid](https://github.com/mohamedtamer0/JetpackCompose-Grid)  |  **Kotlin** |
+|   [List-JetpackCompose](https://github.com/mohamedtamer0/List-JetpackCompose)  |  **Kotlin** |
+|   [JetpackCompose-SimpleUI-Login-Register](https://github.com/mohamedtamer0/JetpackCompose-SimpleUI-Login-Register)  |  **Kotlin** |
+|   [Retrofit-Kotlin-Coroutines](https://github.com/mohamedtamer0/Retrofit-Kotlin-Coroutines)  |  **Kotlin** |
+|   [Quize](https://github.com/mohamedtamer0/Quize)  |  **Kotlin** |
+|   [Admob-Banner-Interstitial](https://github.com/mohamedtamer0/Admob-Banner-Interstitial)  |  **Kotlin** |
+|   [FirebaseAuth-GoogleAccount](https://github.com/mohamedtamer0/FirebaseAuth-GoogleAccount)  |  **Kotlin** |
+|   [Retrofit-MVVM-RecyclerView-RXJava](https://github.com/mohamedtamer0/Retrofit-MVVM-RecyclerView-RXJava)  |  **Java** |
+|   [Dagger2](https://github.com/mohamedtamer0/Dagger2)  |  **Java** |
+|   [AuthFirebase](https://github.com/mohamedtamer0/AuthFirebase)  |  **kotlin** | 
+|   [NotesAppKotlinVR](https://github.com/mohamedtamer0/NotesAppKotlinVR)  |  **Kotlin** | 
+|   [NotesApp-Java](https://github.com/mohamedtamer0/NotesApp-Java)  |  **Java** | 
+|   [IToDo](https://github.com/mohamedtamer0/IToDo)  |  **Java** | 
+|   [Movies App](https://github.com/mohamedtamer0/Movies)  |  **Kotlin** |
+
+ ---
+ 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats
 
