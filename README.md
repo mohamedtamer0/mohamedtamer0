@@ -83,8 +83,6 @@ object Mohamed {
 
  ---
  
-  ---
- 
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Repos : Programming basics, experience, and skills
  
 |       **Repo**            |   **Language** |
