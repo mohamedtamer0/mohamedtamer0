@@ -100,6 +100,7 @@ object Mohamed {
  
 |       **Repo**            |   **Language** |
 | ------------------------- | ---------------|
+|   [Fingerprint-BiometricAuthentication-Android](https://github.com/mohamedtamer0/Fingerprint-BiometricAuthentication-Android)  |  **Kotlin** |
 |   [TextRecognition-MLKit-jetPackCompose](https://github.com/mohamedtamer0/TextRecognition-MLKit-jetPackCompose)  |  **Kotlin** |
 |   [DogsApp-RecyclerView-Kotlin](https://github.com/mohamedtamer0/DogsApp-RecyclerView-Kotlin)  |  **Kotlin** |
 |   [GoogleMap-Integration-jetpackCompose](https://github.com/mohamedtamer0/GoogleMap-Integration-jetpackCompose)  |  **Kotlin** |
