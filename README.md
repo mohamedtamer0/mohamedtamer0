@@ -101,6 +101,7 @@ object Mohamed {
  
 |       **Repo**            |   **Language** |
 | ------------------------- | ---------------|
+|   [ImageClassificationAndroidApp-WithTensorFlowLite](https://github.com/mohamedtamer0/ImageClassificationAndroidApp-WithTensorFlowLite)  |  **Kotlin** |
 |   [Fingerprint-BiometricAuthentication-Android](https://github.com/mohamedtamer0/Fingerprint-BiometricAuthentication-Android)  |  **Kotlin** |
 |   [TextRecognition-MLKit-jetPackCompose](https://github.com/mohamedtamer0/TextRecognition-MLKit-jetPackCompose)  |  **Kotlin** |
 |   [DogsApp-RecyclerView-Kotlin](https://github.com/mohamedtamer0/DogsApp-RecyclerView-Kotlin)  |  **Kotlin** |
