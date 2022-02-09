@@ -62,7 +62,7 @@ object Mohamed {
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
 </div>
 
- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Contacts Me
 <div align="center">
