@@ -101,34 +101,39 @@ object Mohamed {
  
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Projects : Android Apps
  
-|       **Repo**            |   **Language** |
-| ------------------------- | ---------------|
-|   [ImageClassificationAndroidApp-WithTensorFlowLite](https://github.com/mohamedtamer0/ImageClassificationAndroidApp-WithTensorFlowLite)  |  **Kotlin** |
-|   [LibraryAppUI-AndroidJetpackCompose](https://github.com/mohamedtamer0/LibraryAppUI-AndroidJetpackCompose)  |  **Kotlin** |
-|   [Staggred-Recyclerview-Android](https://github.com/mohamedtamer0/Staggred-Recyclerview-Android)  |  **Kotlin** |
-|   [Fingerprint-BiometricAuthentication-Android](https://github.com/mohamedtamer0/Fingerprint-BiometricAuthentication-Android)  |  **Kotlin** |
-|   [TextRecognition-MLKit-jetPackCompose](https://github.com/mohamedtamer0/TextRecognition-MLKit-jetPackCompose)  |  **Kotlin** |
-|   [DogsApp-RecyclerView-Kotlin](https://github.com/mohamedtamer0/DogsApp-RecyclerView-Kotlin)  |  **Kotlin** |
-|   [GoogleMap-Integration-jetpackCompose](https://github.com/mohamedtamer0/GoogleMap-Integration-jetpackCompose)  |  **Kotlin** |
-|   [MaterialComponent-jetPackCompose](https://github.com/mohamedtamer0/MaterialComponent-jetPackCompose)  |  **Kotlin** |
-|   [ExoPlayerVideo-jetPackCompose](https://github.com/mohamedtamer0/ExoPlayerVideo-jetPackCompose)  |  **Kotlin** |
-|   [CircularProgressBar-JetpackCompose-MVVMPattern](https://github.com/mohamedtamer0/CircularProgressBar-JetpackCompose-MVVMPattern)  |  **Kotlin** |
-|   [SplashScreenAnimation-Jetpack-Compose](https://github.com/mohamedtamer0/SplashScreenAnimation-Jetpack-Compose)  |  **Kotlin** |
-|   [BottomNavigation-JetpackCompose](https://github.com/mohamedtamer0/BottomNavigation-JetpackCompose)  |  **Kotlin** |
-|   [JetpackCompose-Grid](https://github.com/mohamedtamer0/JetpackCompose-Grid)  |  **Kotlin** |
-|   [List-JetpackCompose](https://github.com/mohamedtamer0/List-JetpackCompose)  |  **Kotlin** |
-|   [JetpackCompose-SimpleUI-Login-Register](https://github.com/mohamedtamer0/JetpackCompose-SimpleUI-Login-Register)  |  **Kotlin** |
-|   [Retrofit-Kotlin-Coroutines](https://github.com/mohamedtamer0/Retrofit-Kotlin-Coroutines)  |  **Kotlin** |
-|   [Quize](https://github.com/mohamedtamer0/Quize)  |  **Kotlin** |
-|   [Admob-Banner-Interstitial](https://github.com/mohamedtamer0/Admob-Banner-Interstitial)  |  **Kotlin** |
-|   [FirebaseAuth-GoogleAccount](https://github.com/mohamedtamer0/FirebaseAuth-GoogleAccount)  |  **Kotlin** |
-|   [Retrofit-MVVM-RecyclerView-RXJava](https://github.com/mohamedtamer0/Retrofit-MVVM-RecyclerView-RXJava)  |  **Java** |
-|   [Dagger2](https://github.com/mohamedtamer0/Dagger2)  |  **Java** |
-|   [AuthFirebase](https://github.com/mohamedtamer0/AuthFirebase)  |  **kotlin** | 
-|   [NotesAppKotlinVR](https://github.com/mohamedtamer0/NotesAppKotlinVR)  |  **Kotlin** | 
-|   [NotesApp-Java](https://github.com/mohamedtamer0/NotesApp-Java)  |  **Java** | 
-|   [IToDo](https://github.com/mohamedtamer0/IToDo)  |  **Java** | 
-|   [Movies App](https://github.com/mohamedtamer0/Movies)  |  **Kotlin** |
+|       **Repo**            |   **Language** |       **Repo**            |   **Language** |
+| ------------------------- | ---------------| ------------------------- | ---------------|
+|   [ImageClassificationAndroidApp-WithTensorFlowLite](https://github.com/mohamedtamer0/ImageClassificationAndroidApp-WithTensorFlowLite)  |  **Kotlin** |  [StopWatchComposeDesktop](https://github.com/mohamedtamer0/StopWatchComposeDesktop)  |  **Kotlin** |
+|   [LibraryAppUI-AndroidJetpackCompose](https://github.com/mohamedtamer0/LibraryAppUI-AndroidJetpackCompose)  |  **Kotlin** |  [StopWatchComposeMobileApp](https://github.com/mohamedtamer0/StopWatchComposeMobileApp)  |  **Kotlin** |
+|   [Staggred-Recyclerview-Android](https://github.com/mohamedtamer0/Staggred-Recyclerview-Android)  |  **Kotlin** |  [SwipeButtonAnimation-jetPackCompose](https://github.com/mohamedtamer0/SwipeButtonAnimation-jetPackCompose)  |  **Kotlin** |
+|   [Fingerprint-BiometricAuthentication-Android](https://github.com/mohamedtamer0/Fingerprint-BiometricAuthentication-Android)  |  **Kotlin** |    |  **Kotlin** |
+|   [TextRecognition-MLKit-jetPackCompose](https://github.com/mohamedtamer0/TextRecognition-MLKit-jetPackCompose)  |  **Kotlin** |    |  **Kotlin** |
+|   [DogsApp-RecyclerView-Kotlin](https://github.com/mohamedtamer0/DogsApp-RecyclerView-Kotlin)  |  **Kotlin** |    |  **Kotlin** |
+|   [GoogleMap-Integration-jetpackCompose](https://github.com/mohamedtamer0/GoogleMap-Integration-jetpackCompose)  |  **Kotlin** |    |  **Kotlin** |
+|   [MaterialComponent-jetPackCompose](https://github.com/mohamedtamer0/MaterialComponent-jetPackCompose)  |  **Kotlin** |    |  **Kotlin** |
+|   [ExoPlayerVideo-jetPackCompose](https://github.com/mohamedtamer0/ExoPlayerVideo-jetPackCompose)  |  **Kotlin** |    |  **Kotlin** |
+|   [CircularProgressBar-JetpackCompose-MVVMPattern](https://github.com/mohamedtamer0/CircularProgressBar-JetpackCompose-MVVMPattern)  |  **Kotlin** |    |  **Kotlin** |
+|   [SplashScreenAnimation-Jetpack-Compose](https://github.com/mohamedtamer0/SplashScreenAnimation-Jetpack-Compose)  |  **Kotlin** |    |  **Kotlin** |
+|   [BottomNavigation-JetpackCompose](https://github.com/mohamedtamer0/BottomNavigation-JetpackCompose)  |  **Kotlin** |    |  **Kotlin** |
+|   [JetpackCompose-Grid](https://github.com/mohamedtamer0/JetpackCompose-Grid)  |  **Kotlin** |    |  **Kotlin** |
+|   [List-JetpackCompose](https://github.com/mohamedtamer0/List-JetpackCompose)  |  **Kotlin** |    |  **Kotlin** |
+|   [JetpackCompose-SimpleUI-Login-Register](https://github.com/mohamedtamer0/JetpackCompose-SimpleUI-Login-Register)  |  **Kotlin** |    |  **Kotlin** |
+|   [Retrofit-Kotlin-Coroutines](https://github.com/mohamedtamer0/Retrofit-Kotlin-Coroutines)  |  **Kotlin** |    |  **Kotlin** |
+|   [Quize](https://github.com/mohamedtamer0/Quize)  |  **Kotlin** |    |  **Kotlin** |
+|   [Admob-Banner-Interstitial](https://github.com/mohamedtamer0/Admob-Banner-Interstitial)  |  **Kotlin** |    |  **Kotlin** |
+|   [FirebaseAuth-GoogleAccount](https://github.com/mohamedtamer0/FirebaseAuth-GoogleAccount)  |  **Kotlin** |    |  **Kotlin** |
+|   [Retrofit-MVVM-RecyclerView-RXJava](https://github.com/mohamedtamer0/Retrofit-MVVM-RecyclerView-RXJava)  |  **Java** |    |  **Kotlin** |
+|   [Dagger2](https://github.com/mohamedtamer0/Dagger2)  |  **Java** |    |  **Kotlin** |
+|   [AuthFirebase](https://github.com/mohamedtamer0/AuthFirebase)  |  **kotlin** |     |  **Kotlin** |
+|   [NotesAppKotlinVR](https://github.com/mohamedtamer0/NotesAppKotlinVR)  |  **Kotlin** |     |  **Kotlin** |
+|   [NotesApp-Java](https://github.com/mohamedtamer0/NotesApp-Java)  |  **Java** |     |  **Kotlin** |
+|   [IToDo](https://github.com/mohamedtamer0/IToDo)  |  **Java** |     |  **Kotlin** |
+|   [Movies App](https://github.com/mohamedtamer0/Movies)  |  **Kotlin** |    |  **Kotlin** |
+
+
+<!-- |       **Repo**            |   **Language** |       **Repo**            |   **Language** |
+| ------------------------- | ---------------| ------------------------- | ---------------|
+|    |  **Kotlin** |    |  **Kotlin** | -->
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
  
