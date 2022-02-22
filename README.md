@@ -89,6 +89,7 @@ object Mohamed {
  
 |       **Repo**            |   **Language** |
 | ------------------------- | ---------------|
+|   [DataStructures-Algorithms-Kotlin](https://github.com/mohamedtamer0/DataStructures-Algorithms-Kotlin)  |  **Kotlin** |
 |   [DependencyManagement-BuildSrc-KotlinDSL](https://github.com/mohamedtamer0/DependencyManagement-BuildSrc-KotlinDSL)  |  **Kotlin** |
 |   [DataStructuresAlgorithms-CPlusPlus](https://github.com/mohamedtamer0/DataStructuresAlgorithms-CPlusPlus)  | **C++** |
 |   [LeetCode](https://github.com/mohamedtamer0/LeetCode)  |  **Kotlin** **&** **Java** **&** **C++** |
