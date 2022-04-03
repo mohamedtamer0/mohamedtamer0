@@ -38,7 +38,7 @@ object Mohamed {
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> My Courses
 <div align="center">
- <a href="https://www.udemy.com/course/kotlin-course-arabic/?couponCode=NOVEMBER2021"><img src="https://img.shields.io/badge/Udemy-A100FF?style=for-the-badge&logo=Udemy&logoColor=white"></a>
+ <a href="https://www.udemy.com/user/mohamed-tamer-15/"><img src="https://img.shields.io/badge/Udemy-A100FF?style=for-the-badge&logo=Udemy&logoColor=white"></a>
   <a href="https://www.youtube.com/user/tamer3044/"><img  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
  </div>
  
