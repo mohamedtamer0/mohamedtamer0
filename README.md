@@ -76,12 +76,13 @@ object Mohamed {
  
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
  
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Projects : Open Source libraries
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Projects : Open Source libraries & Template 
 ![Message](https://img.shields.io/static/v1?label=Android&message=Library&color=green)
  
 |       **Repo**            |   **Language** |   **Description**                                                                            |
 | ------------------------- | ---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   [Compose-Curved-Scroll-library](https://github.com/mohamedtamer0/Compose-Curved-Scroll-library)  |  **Kotlin** | Compose Curved Scroll is a lightweight, simple yet customizable implementation in **Jetpack Compose**.
+|   [MVVM-Template-Kotlin](https://github.com/mohamedtamer0/MVVM-Template-Kotlin)  |  **Kotlin** | Template for MVVM Architecture.
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
  
