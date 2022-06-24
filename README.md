@@ -7,7 +7,8 @@
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
-### Hey devs <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;">
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;"> -->
+### Hey devs 
 👨🏼‍💻I'm Dev
 Android Developer Kotlin & Java
 Brief about me, I'm an Android dev in both languages [Java and Kotlin] , I have 2 years experience of working on a variety of projects .
