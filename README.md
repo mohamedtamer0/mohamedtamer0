@@ -111,6 +111,7 @@ object Mohamed {
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
  
+ <!--
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Projects : Android Apps
  
 |       **Repo**            |   **Language** |       **Repo**            |   **Language** |
@@ -142,12 +143,9 @@ object Mohamed {
 |   [IToDo](https://github.com/mohamedtamer0/IToDo)  |  **Java** |     |  **Kotlin** |
 |   [Movies App](https://github.com/mohamedtamer0/Movies)  |  **Kotlin** |    |  **Kotlin** |
 
+-->
 
-<!-- |       **Repo**            |   **Language** |       **Repo**            |   **Language** |
-| ------------------------- | ---------------| ------------------------- | ---------------|
-|    |  **Kotlin** |    |  **Kotlin** | -->
 
- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
  
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats
