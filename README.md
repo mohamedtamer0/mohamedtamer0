@@ -8,22 +8,23 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;"> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedtamer0&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedtamer0" /> </p>
+
+
+
 ### Hey devs 
-👨🏼‍💻I'm Dev
-Android Developer Kotlin & Java
-Brief about me, I'm an Android dev in both languages [Java and Kotlin] , I have 2 years experience of working on a variety of projects .
-
+👨🏼‍💻I'm Software Engineer
+My Name's Mohamed , 
+26 Years Old.
+Diligent software engineer, and a content creator , I have 4 years of self-study in programming without a mentor . I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
 I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
+I have knowledge of OOP, algorithm and data structures,solid principles,design patterns,Methodologies: Agile – Scrum, My work includes building user-focused, innovative, and developing clean code with teamwork.
+I enjoy building great Arabic content and helping others do the same. So that's what I'm doing in my content.
 
-I have knowledge of OOP,MVVM and MVC principles, My work includes building user-focused, innovative, keep user security and performance UI, and developing clean code with teamwork.
-
-I have experience in Rest API, Retrofit, Room Database, RX java , databinding, online payment, E-commerce App, Firebase, Google Play Services, Google Admob, Butterknife-Library, Service, Broadcast Receiver , Short experience in dagger and kotlin coroutines, and power to use GitHub to work with a team.
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedtamer0" alt="mohamedtamer0" /></a> </p>
 
 
-I enjoy building great software and helping others do the same.
-
-Experienced Android Developer with a demonstrated history of working in the information technology and services industry. Skilled in Android, Leadership, Project Management, Kotlin, and java.
-
+<!--
  ```kotlin
 object Mohamed {
  val name = "Mohamed Tamer"
@@ -34,6 +35,7 @@ object Mohamed {
 
 }
 ```
+-->
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
 
@@ -47,6 +49,12 @@ object Mohamed {
  
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools
 <div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,c,cs,cpp,go,java,php,py,swift,ts)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,atom,bootstrap,eclipse,firebase,git,github,gradle,idea,ktor,linux,maven,mongodb,mysql,netlify,nodejs,pug,reactivex,sass,spring,sqlite,stackoverflow,visualstudio,vscode,vue,xd)](https://skillicons.dev)
+
+<!--
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -61,6 +69,7 @@ object Mohamed {
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
+-->
 </div>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
