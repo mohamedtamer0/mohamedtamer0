@@ -53,6 +53,8 @@ object Mohamed {
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,c,cs,cpp,go,java,php,py,swift,ts)](https://skillicons.dev)
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,atom,bootstrap,eclipse,firebase,git,github,gradle,idea,ktor,linux,maven,mongodb,mysql,netlify,nodejs,pug,reactivex,sass,spring,sqlite,stackoverflow,visualstudio,vscode,vue,xd)](https://skillicons.dev)
+<br/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 
 <!--
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
