@@ -21,7 +21,7 @@ I have a great ambition to continue developing my skills and aspire to work in a
 I have knowledge of OOP, algorithm and data structures,solid principles,design patterns,Methodologies: Agile – Scrum, My work includes building user-focused, innovative, and developing clean code with teamwork.
 I enjoy building great Arabic content and helping others do the same. So that's what I'm doing in my content.
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedtamer0" alt="mohamedtamer0" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedtamer0" alt="mohamedtamer0" /></a> </p> -->
 
 
 <!--
@@ -50,9 +50,7 @@ object Mohamed {
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,c,cs,cpp,go,java,php,py,swift,ts)](https://skillicons.dev)
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,atom,bootstrap,eclipse,firebase,git,github,gradle,idea,ktor,linux,maven,mongodb,mysql,netlify,nodejs,pug,reactivex,sass,spring,sqlite,stackoverflow,visualstudio,vscode,vue,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,c,cs,cpp,go,java,php,py,swift,ts,androidstudio,angular,atom,bootstrap,eclipse,firebase,git,github,gradle,idea,ktor,linux,maven,mongodb,mysql,netlify,nodejs,pug,reactivex,sass,spring,sqlite,stackoverflow,visualstudio,vscode,vue,xd)](https://skillicons.dev)
 <br/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 
