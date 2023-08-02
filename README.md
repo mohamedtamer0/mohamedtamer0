@@ -15,7 +15,7 @@
 ### Hey devs 
 👨🏼‍💻I'm Software Engineer
 My Name's Mohamed , 
-26 Years Old.
+27 Years Old.
 Diligent software engineer, and a content creator , I have 4 years of self-study in programming without a mentor . I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
 I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
 I have knowledge of OOP, algorithm and data structures,solid principles,design patterns,Methodologies: Agile – Scrum, My work includes building user-focused, innovative, and developing clean code with teamwork.
