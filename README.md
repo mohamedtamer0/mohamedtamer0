@@ -29,7 +29,7 @@ I enjoy building great Arabic content and helping others do the same. So that's 
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,c,cs,cpp,go,java,php,py,swift,ts,androidstudio,angular,atom,bootstrap,eclipse,firebase,git,github,gradle,idea,ktor,linux,maven,mongodb,mysql,netlify,nodejs,pug,reactivex,sass,spring,sqlite,stackoverflow,visualstudio,vscode,vue,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,c,cs,cpp,go,java,php,py,swift,ts,androidstudio,angular,atom,bootstrap,eclipse,firebase,git,github,gradle,idea,ktor,linux,maven,mongodb,mysql,netlify,nodejs,pug,reactivex,sass,spring,sqlite,stackoverflow,visualstudio,vscode,vue,xd,spring,docker,kubernetes)](https://skillicons.dev)
 <br/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 
