@@ -1,4 +1,9 @@
-<!-- ## Mohamed Tamer - @mohamedtamer0 -->
+<p align="center">
+<a href="https://github.com/mohamedtamer0"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=mohamedtamer0&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+</p>
+
+
+<!-- ## Mohamed Tamer - @mohamedtamer0 
 
 
 ![1544118575312](https://user-images.githubusercontent.com/51374446/149413490-fb3a6507-eb23-4e08-a756-842c47727978.jpg)
@@ -74,5 +79,6 @@ I enjoy building great Arabic content and helping others do the same. So that's 
 
 
 ### It was nice meeting you :revolving_hearts: what about a follow and let's connect! :raised_hands: 
+-->
 
 
