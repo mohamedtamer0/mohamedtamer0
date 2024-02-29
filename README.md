@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
  <a href="https://www.udemy.com/user/mohamed-tamer-15/"><img src="https://img.shields.io/badge/Udemy-A100FF?style=for-the-badge&logo=Udemy&logoColor=white"></a>
  <a href="https://www.youtube.com/user/MohamedTamer0/"><img  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a></br>
  <a href="https://github.com/sponsors/mohamedtamer0"><img alt="Sponsors" src="https://skydoves.github.io/badges/badge_sponsors.svg"/></a></br>
@@ -6,7 +6,7 @@
 </p>
 
 
-<!-- ## Mohamed Tamer - @mohamedtamer0 
+<!-- ## Mohamed Tamer - @mohamedtamer0 -->
 
 
 ![1544118575312](https://user-images.githubusercontent.com/51374446/149413490-fb3a6507-eb23-4e08-a756-842c47727978.jpg)
@@ -82,6 +82,6 @@ I enjoy building great Arabic content and helping others do the same. So that's 
 
 
 ### It was nice meeting you :revolving_hearts: what about a follow and let's connect! :raised_hands: 
--->
+
 
 
