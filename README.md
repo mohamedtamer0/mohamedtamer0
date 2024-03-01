@@ -18,14 +18,13 @@
 
 
 ### Hey devs 
-👨🏼‍💻I'm Software Engineer
-My Name's Mohamed , 
-27 Years Old.
-Diligent software engineer, and a content creator , I have 4 years of self-study in programming without a mentor . I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
-I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
-I have knowledge of OOP, algorithm and data structures,solid principles,design patterns,Methodologies: Agile – Scrum, My work includes building user-focused, innovative, and developing clean code with teamwork.
-I enjoy building great Arabic content and helping others do the same. So that's what I'm doing in my content.
+<p>
+Hello, I'm Mohamed, a dedicated Software Engineer and content creator at 27. With 4 years of intensive self-study in programming and no formal mentor, I bring a unique drive to my work. I've accumulated 2 years of hands-on experience in Android Native development, and an additional 2 years at Elsewedy Electric, where I've engaged with a plethora of technologies, tools, and intricate integrations.
 
+Beyond my professional roles, I actively contribute to the open-source community, showcasing extensive expertise in various tech domains such as Android Native, Oracle DB, Spring, Web Development, Java, Kotlin, and more.
+
+My professional journey reflects a commitment to continuous learning, and I harbor a great ambition to further develop my skills in a collaborative environment. Engaging with all facets of the development lifecycle, my work is centered on crafting user-focused, innovative solutions, and delivering clean code through effective teamwork.
+</p>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> My Courses
 <div align="center">
