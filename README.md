@@ -19,11 +19,13 @@
 
 ### Hey devs 
 <p>
-Hello, I'm Mohamed, a dedicated Software Engineer and content creator at 27. With 4 years of intensive self-study in programming and no formal mentor, I bring a unique drive to my work. I've accumulated 2 years of hands-on experience in Android Native development, and an additional 2 years at Elsewedy Electric, where I've engaged with a plethora of technologies, tools, and intricate integrations.
+Hello, I'm Mohamed, a 28-year-old dedicated Software Engineer and content creator. With 4 years of intensive self-study in programming and no formal mentor, I bring a unique drive to my work. I have 2 years of hands-on experience in Android Native development and an additional 2 years at Elsewedy Electric, where I engaged with a plethora of technologies, tools, and intricate integrations.
 
-Beyond my professional roles, I actively contribute to the open-source community, showcasing extensive expertise in various tech domains such as Android Native, Oracle DB, Spring, Web Development, Java, Kotlin, and more.
+Currently, I am pursuing a diploma in computer science at Cairo University to deepen my expertise in computer science and programming.
 
-My professional journey reflects a commitment to continuous learning, and I harbor a great ambition to further develop my skills in a collaborative environment. Engaging with all facets of the development lifecycle, my work is centered on crafting user-focused, innovative solutions, and delivering clean code through effective teamwork.
+Beyond my professional roles, I actively contribute to the open-source community, showcasing extensive expertise in various tech domains, including Android Native, Oracle DB, Spring, Web Development, Java, Kotlin, and more.
+
+My professional journey reflects a commitment to continuous learning, and I am ambitious to further develop my skills in a collaborative environment. Engaging with all facets of the development lifecycle, my work focuses on crafting user-centric, innovative solutions and delivering clean code through effective teamwork.
 </p>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> My Courses
