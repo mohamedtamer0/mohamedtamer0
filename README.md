@@ -46,28 +46,6 @@ My professional journey reflects a commitment to continuous learning, and I am a
 
 </div>
 
- 
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Projects : Open Source libraries & Template 
-![Message](https://img.shields.io/static/v1?label=Android&message=Library&color=green)
- 
-|       **Repo**            |   **Language** |   **Description**                                                                            |
-| ------------------------- | ---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   [Compose-Curved-Scroll-library](https://github.com/mohamedtamer0/Compose-Curved-Scroll-library)  |  **Kotlin** | Compose Curved Scroll is a lightweight, simple yet customizable implementation in **Jetpack Compose**.
-|   [MVVM-Template-Kotlin](https://github.com/mohamedtamer0/MVVM-Template-Kotlin)  |  **Kotlin** | Template for MVVM Architecture.
-
- 
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Repos : Programming basics, experience, and skills
- 
-|       **Repo**            |   **Language** |
-| ------------------------- | ---------------|
-|   [DataStructures-Algorithms-Kotlin](https://github.com/mohamedtamer0/DataStructures-Algorithms-Kotlin)  |  **Kotlin** |
-|   [DependencyManagement-BuildSrc-KotlinDSL](https://github.com/mohamedtamer0/DependencyManagement-BuildSrc-KotlinDSL)  |  **Kotlin** |
-|   [DataStructuresAlgorithms-CPlusPlus](https://github.com/mohamedtamer0/DataStructuresAlgorithms-CPlusPlus)  | **C++** |
-|   [LeetCode](https://github.com/mohamedtamer0/LeetCode)  |  **Kotlin** **&** **Java** **&** **C++** |
-|   [SolidPrinciples-Kotlin-java](https://github.com/mohamedtamer0/SolidPrinciples-Kotlin-java)  |  **Kotlin** **&** **Java** |
-|   [DesignPatterns-Kotlin](https://github.com/mohamedtamer0/DesignPatterns-Kotlin)  |  **Kotlin** |
-|   [DesignPatterns-Java](https://github.com/mohamedtamer0/DesignPatterns-Java)  |  **Java** |
-|   [ktor-sample](https://github.com/mohamedtamer0/ktor-sample)  |  **Kotlin** |
 
  
 
@@ -75,15 +53,8 @@ My professional journey reflects a commitment to continuous learning, and I am a
 
 
 <div align="center">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtamer0&layout=compact&hide_border=true&theme=onedark">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedtamer0&hide_border=true&theme=onedark">
  <a href="https://github.com/mohamedtamer0">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedtamer0&show_icons=true&theme=onedark&line_height=27" alt="Mohamed Tamer github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedtamer0&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mohamed Tamer github stats"/>
 </a>
 </div>
-
-
-### It was nice meeting you :revolving_hearts: what about a follow and let's connect! :raised_hands: 
-
-
 
